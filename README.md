@@ -1,4 +1,4 @@
-# 🛠️ B3eyour Web Shop - API Server
+# 🛠️ l3eyour Web Shop - API Server
 
 This is the **Backend API** for the [B3eyour Web Shop](https://github.com/Snowy1510/b3eyour-web-shop) project.  
 It provides RESTful endpoints to support user authentication, balance top-up, product purchase, and admin management.
